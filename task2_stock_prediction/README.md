@@ -1,23 +1,23 @@
 # 📈 Task 2: Stock Price Prediction using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 This project predicts the next day's closing price of a stock using historical market data. The model uses machine learning techniques to analyze patterns in stock price movements.
 
 ---
 
-## 🎯 Objective
+## Objective
 To build a regression model that can predict future stock prices based on historical data such as Open, High, Low, and Volume.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Source: Yahoo Finance (via `yfinance` library)
 - Stock used: Apple Inc. (AAPL)
 - Time range: 2020 - 2024
 
 ---
 
-## 🧠 Approach
+## Approach
 
 1. Data Collection using Yahoo Finance API
 2. Data Preprocessing and Feature Selection
@@ -28,7 +28,7 @@ To build a regression model that can predict future stock prices based on histor
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -39,7 +39,7 @@ To build a regression model that can predict future stock prices based on histor
 
 ---
 
-## 🤖 Machine Learning Model
+## Machine Learning Model
 
 - Model Used: Linear Regression
 - Input Features: Open, High, Low, Volume
@@ -47,14 +47,14 @@ To build a regression model that can predict future stock prices based on histor
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 
 ---
 
-## 📊 Results
+## Results
 
 - The model successfully learned patterns in stock price movements.
 - Predictions closely followed actual price trends.
@@ -62,12 +62,12 @@ To build a regression model that can predict future stock prices based on histor
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates a complete end-to-end machine learning workflow for financial prediction, including data collection, preprocessing, model building, evaluation, and visualization.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Install dependencies:

@@ -68,5 +68,4 @@ task1_iris_visualization/
 ---
 
 ## Author
-AI/ML Engineering Internship Task  
-DevelopersHub Corporation
+Ibrar Ahmad
